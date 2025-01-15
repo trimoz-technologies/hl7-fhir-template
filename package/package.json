@@ -1,0 +1,11 @@
+{
+  "name": "clicsante.template.base",
+  "canonical": "http://clicsante.ca/ig-template",
+  "version": "0.1",
+  "type": "fhir.template",
+  "description": "Template for Clic Santé",
+  "base": "fhir.base.template",
+  "dependencies": {
+    "fhir.base.template": "current"
+  }
+}
