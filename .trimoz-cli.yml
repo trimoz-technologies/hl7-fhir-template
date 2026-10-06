@@ -1,0 +1,8 @@
+# Managed by trimoz-cli — describes this project for dynamic discovery.
+# Replaces this project's entry in the (soon to be retired) static mapping.data.json.
+trimoz-cli:
+  id: 66187658
+  name: hl7-fhir-template
+  type: project
+  branch: master
+  ref: trimoz/tools/hl7-fhir-template
